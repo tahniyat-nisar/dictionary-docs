@@ -4,3 +4,15 @@
 #     print("it is empty dict")
 # else:
 #     print("it is not empty dict")
+
+
+# check weather all dictionaries are empty
+# l=[{},{1,2},{}]
+# count=0
+# for i in l:
+#     if len(i)==0:
+#         count+=1
+# if count==len(l):
+#      print('true')
+# else:
+#     print('false')
